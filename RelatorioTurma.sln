@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelatorioTurma", "RelatorioTurma\RelatorioTurma.csproj", "{5AE30577-563B-46F6-A55F-B9D6C33B7601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE30577-563B-46F6-A55F-B9D6C33B7601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE30577-563B-46F6-A55F-B9D6C33B7601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE30577-563B-46F6-A55F-B9D6C33B7601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE30577-563B-46F6-A55F-B9D6C33B7601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A6D9C8B-E009-4295-B5EA-CEFD58D30C08}
+	EndGlobalSection
+EndGlobal
