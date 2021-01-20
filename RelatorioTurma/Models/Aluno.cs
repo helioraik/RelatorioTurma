@@ -1,7 +1,7 @@
 ﻿
 namespace RelatorioTurma.Models
 {
-    class Aluno
+    public class Aluno
     {
         public string Nome { get; set; }
         public double NotaPr1 { get; set; }
